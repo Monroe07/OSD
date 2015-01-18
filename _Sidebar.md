@@ -4,6 +4,8 @@
 
 [[Installation guide]]
 
+[[Panel descriptions]]
+
 ## [[Configuration]]
 
 [[Upload the FW]]
