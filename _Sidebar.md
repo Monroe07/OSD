@@ -35,4 +35,3 @@
 [[Battery Warnings]]
 
 [[RSSI Warning]]
----
