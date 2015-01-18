@@ -25,3 +25,5 @@
 ### [[Warnings]]
 
 [[GPS Warning]]
+
+[[Stall Warning]]
