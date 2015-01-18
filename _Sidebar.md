@@ -21,3 +21,5 @@
 [[HAM Callsign]]
 
 [[Brightness]]
+
+# [[Warnings]]
