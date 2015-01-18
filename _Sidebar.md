@@ -19,3 +19,5 @@
 [[RSSI]]
 
 [[HAM Callsign]]
+
+[[Brightness]]
