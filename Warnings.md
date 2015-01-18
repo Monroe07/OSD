@@ -2,6 +2,8 @@
 
 Warning messages are blinking signs to let you know there is something wrong, or dangerous is happening.
 
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/25.png)
+
 To help you more, in an emergency situation warnings will bring you back to your home screen automatically, so you can focus on flying.
 
 Warnings can be turned on to a specific screen. (Screen 1 os screen 2)
