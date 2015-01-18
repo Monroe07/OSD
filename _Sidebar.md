@@ -23,3 +23,5 @@
 [[Brightness]]
 
 ### [[Warnings]]
+
+[[GPS Warning]]
