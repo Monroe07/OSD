@@ -10,4 +10,4 @@
 
 [[Update Character set]]
 
-[[ideo Standards PAL/NTSC]]
+[[Video Standards PAL/NTSC]]
