@@ -1,10 +1,10 @@
 # Battery Percent
 
-![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/34.png)
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/35.png)
 
 This panel indicates the charge level of your battery. It is capable to show your charge level in percent, or it can tell you mah used since poweron.
 
-![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/35.png)
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/36.png)
 
 You should set your battery capacity in Mission Planner.
 
