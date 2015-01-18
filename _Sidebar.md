@@ -7,3 +7,5 @@
 [[Using Config Tool (Configuring)]]
 ---
 [[Upload the FW]]
+
+[[Update Character set]]
