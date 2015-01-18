@@ -60,7 +60,7 @@
 
 [[Visible Sats]]
 
-[[Warnngs]]
+[[Warnings]]
 
 [[Wind Speed]]
 
