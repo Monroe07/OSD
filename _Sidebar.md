@@ -4,7 +4,7 @@
 
 [[Installation guide]]
 
-[[Using Config Tool (Configuring)]]
+## [[Using Config Tool (Configuring)]]
 ---
 [[Upload the FW]]
 
@@ -22,4 +22,4 @@
 
 [[Brightness]]
 
-# [[Warnings]]
+### [[Warnings]]
