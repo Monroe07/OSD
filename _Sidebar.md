@@ -1,6 +1,6 @@
 [[Home]]
 ---
-[[The hardware]]
+[[Introduction]]
 
 [[Installation guide]]
 
