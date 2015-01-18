@@ -11,3 +11,5 @@
 [[Update Character set]]
 
 [[Video Standards PAL/NTSC]]
+
+[[Screen switching]]
