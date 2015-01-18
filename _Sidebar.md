@@ -4,7 +4,7 @@
 
 [[Installation guide]]
 
-[[Panel descriptions]]
+## [[Panel descriptions]]
 
 ## [[Configuration]]
 
