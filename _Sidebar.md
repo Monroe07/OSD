@@ -29,3 +29,5 @@
 [[Stall Warning]]
 
 [[Overspeed Warning]]
+
+[[Battery Warnings]]
