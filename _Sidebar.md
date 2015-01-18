@@ -1,3 +1,5 @@
 [[Home]]
 ---
+[[The hardware]]
+
 [[Configuring]]
