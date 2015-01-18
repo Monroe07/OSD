@@ -6,6 +6,8 @@
 
 ## [[Using Config Tool (Configuring)]]
 
+[[Panel descriptions]]
+
 [[Upload the FW]]
 
 [[Update Character set]]
@@ -23,7 +25,7 @@
 [[Brightness]]
 
 ### [[Warnings]]
----
+
 [[GPS Warning]]
 
 [[Stall Warning]]
@@ -33,3 +35,4 @@
 [[Battery Warnings]]
 
 [[RSSI Warning]]
+---
