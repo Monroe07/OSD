@@ -78,7 +78,7 @@
 
 [[Units of measurement ]]
 
-[[RSSI]]
+[[RSSI configuration]]
 
 [[HAM Callsign]]
 
