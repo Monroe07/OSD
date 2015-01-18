@@ -17,3 +17,5 @@
 [[Units of measurement ]]
 
 [[RSSI]]
+
+[[HAM Callsign]]
