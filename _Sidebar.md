@@ -15,3 +15,5 @@
 [[Screen switching]]
 
 [[Units of measurement ]]
+
+[[RSSI]]
