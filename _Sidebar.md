@@ -8,6 +8,8 @@
 
 [[Airspeed]]
 
+[[Altitude]]
+
 ## [[Configuration]]
 
 [[Upload the FW]]
