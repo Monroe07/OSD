@@ -12,6 +12,8 @@
 
 [[Battery A]]
 
+[[Battery Percent]]
+
 ## [[Configuration]]
 
 [[Upload the FW]]
