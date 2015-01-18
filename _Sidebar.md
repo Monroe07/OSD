@@ -9,3 +9,5 @@
 [[Upload the FW]]
 
 [[Update Character set]]
+
+[[ideo Standards PAL/NTSC]]
