@@ -15,6 +15,7 @@ Feeds the ATmega 328P and Max7456’s digital line (DVDD and DGND);
 
 
 **Note:** Optionally, you can use two solder jumps to “tie” digital and analog lines.
+**IMPORTANT:** In this case don't use the middle pins (+)!
 
 ![](http://dev.ardupilot.com/wp-content/uploads/sites/6/2013/06/PowerTieMinimOSD.jpg)
 
