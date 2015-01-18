@@ -17,7 +17,7 @@ Open Confg. Tool, than click on "Options" menu than Update firmware.
 ![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/03.png)
 
 Browse for the firmware file (.hex) 
-The firmware file is located at <Your Config Tool directory>\FW & Char\
+The firmware file is located at Your Config Tool directory\FW & Char\
 
 
 
