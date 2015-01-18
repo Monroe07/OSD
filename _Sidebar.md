@@ -4,5 +4,5 @@
 
 [[Installation guide]]
 
-[[Configuring Using Config Tool]]
+[[Using Config Tool (Configuring)]]
 
