@@ -84,6 +84,8 @@
 
 [[Brightness]]
 
+[[Icons]]
+
 ### [[Warnings]]
 
 [[GPS Warning]]
