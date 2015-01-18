@@ -6,6 +6,8 @@
 
 ## [[Panel descriptions]]
 
+[[Airspeed]]
+
 ## [[Configuration]]
 
 [[Upload the FW]]
