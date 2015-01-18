@@ -31,3 +31,5 @@
 [[Overspeed Warning]]
 
 [[Battery Warnings]]
+
+[[RSSI Warning]]
