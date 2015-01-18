@@ -1,7 +1,7 @@
 Introduction
 MinimOSD is a super-tiny board designed by 3DRobotics. It’s all you need to get OSD telemetry data from ArduPilot Mega. Just connect your FPV camera and a video link and you’re ready to fly with instruments on screen.
 
-![](http://arducam-osd.googlecode.com/svn/wiki/images/MinimOSD.jpg)
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/MinimOSD.jpg)
 
 It’s intended to be a dedicated APM telemetry video output. So, it reads MAVLink messages from its RX and request rates from APM if you connect its TX to ArduPilot “telem” port.
 
