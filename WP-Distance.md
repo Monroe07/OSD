@@ -4,6 +4,8 @@ Waypoint panel indicates 4 things. Waypoint direction, waypoint number, waypoint
 
 ![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/61.png)
 
+This panel is hidden till there is an active WP!
+
 Waypoint direction indicates the direction to the next waypoint, relative to your plane.
 
 You need a magnetometer to make this panel work more precisely.
