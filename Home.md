@@ -37,7 +37,7 @@ Now the basic functions are the following:
 
 - Tune panel
 
-- 
+- Visiable Sats
 
 - Air speed
 
