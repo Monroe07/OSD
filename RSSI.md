@@ -44,16 +44,17 @@ You have to teach OSD to "read your receiver".
 
 Open Config. Tool check the "RSSI Enable Raw" check-box.
 
-![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/13.png)
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/18.png)
 
 By "RSSI Enable Raw" option checked when you power up your OSD with APM, you will see the raw values.
 After APM have booted up and you have your TX working (antenna pulled out), than it will show the raw value that you set in "RSSI Max Value" box. 
 
-![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/14.png)
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/19.png)
 
 Than turn your tx off, so it will show the raw value that you set in "RSSI Min Value" box.
 
-![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/15.png)
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/20.png)
 
 Than plug your OSD to FTDI again, and uncheck "RSSI Raw Value" check-box, than save it to OSD. After this OSD will show RSSI normally.
 
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/21.png)
