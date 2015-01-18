@@ -27,3 +27,5 @@
 [[GPS Warning]]
 
 [[Stall Warning]]
+
+[[Overspeed Warning]]
