@@ -28,7 +28,7 @@ Than turn your tx off, so it will show the raw value that you set in "RSSI Min V
 
 Than plug your OSD to FTDI again, and uncheck "RSSI Raw Value" check-box, than save it to OSD. After this OSD will show RSSI normally.
 
-![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/15.png)
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/16.png)
 
 ### 2./ PWM RSSI
 
