@@ -23,7 +23,7 @@
 [[Brightness]]
 
 ### [[Warnings]]
-
+---
 [[GPS Warning]]
 
 [[Stall Warning]]
