@@ -1,1 +1,2 @@
+The hardware
 Configuring
