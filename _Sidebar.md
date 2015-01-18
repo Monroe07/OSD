@@ -10,6 +10,8 @@
 
 [[Altitude]]
 
+[[Battery A]]
+
 ## [[Configuration]]
 
 [[Upload the FW]]
