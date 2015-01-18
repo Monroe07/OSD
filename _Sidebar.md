@@ -4,9 +4,7 @@
 
 [[Installation guide]]
 
-## [[Using Config Tool (Configuring)]]
-
-[[Panel descriptions]]
+## [[Configuration]]
 
 [[Upload the FW]]
 
