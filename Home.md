@@ -4,6 +4,7 @@ MinimOSD-Extra is based on the original ArduCAM OSD project.
 We have added extra functions to make FPV flights safer by enableing the pilots to have as many critical information available as possible via the live video from the users plane or copter.
 
 Here is it in action:
+
 [![ScreenShot](http://img.youtube.com/vi/M8ei-0-mvDE/0.jpg)](http://youtube.com/embed/M8ei-0-mvDE)
 
 Configurator Tool is also updated:
