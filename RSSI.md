@@ -1,6 +1,13 @@
-# Configuring RSSI
+# RSSI
 
-There is two different kind of RSSI MinimOSD-Extra can handle.
+RSSI panel indicates your radio signal strength (Received signal strength indication). It shows it in percent.
+
+You can use analoge and PWM rssi.
+
+Requirements
+You need a receiver capable of sending analog or PWM RSSI information.
+
+![](http://gabek.ddns.net/MinimOSD-Extra_wiki_pictures/51.png)
 
 ###1./ Analoge RSSI
 First you need to enable this function in APM. Go to MP than look for it in advanced parameters.
