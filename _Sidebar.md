@@ -14,6 +14,14 @@
 
 [[Battery Percent]]
 
+[[Call Sign]]
+
+[[Current]]
+
+[[Efficiency]]
+
+[[Flight Mode]]
+
 ## [[Configuration]]
 
 [[Upload the FW]]
