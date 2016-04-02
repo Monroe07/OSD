@@ -2,6 +2,7 @@
 
 To upload you need a FTDI cable like this: [Link](http://store.3drobotics.com/products/ftdi-cable-3-3v)
 (Also make sure that you have the FTDI driver installed)
+(Unfortunately 3DR obv. stopped selling those cables so the link above is dead)
 
 ### 1./ preparing:
 
